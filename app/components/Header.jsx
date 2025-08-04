@@ -23,14 +23,17 @@ const Header = () => {
           <div className="relative">
             <Bell className="w-5 sm:w-6 h-5 sm:h-6 text-gray-300 cursor-pointer hover:text-white" />
           </div>
-          <div className="flex-items-center space-x-2 sm:space-x-3">
+          <div className="flex items-center space-x-2 sm:space-x-3">
             <Image
               src={admin}
               alt="admin"
               width={35}
               height={35}
-              className="rounded-full border-gray-600"
+              className="rounded-full border border-gray-600"
             />
+            <span className="hidden sm:block text-gray-100 font-medium">
+              Username
+            </span>
           </div>
         </div>
       </div>

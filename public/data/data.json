@@ -199,13 +199,13 @@
   ],
   "sidebarItems": [
     { "name": "Dashboard", "icon": "House", "href": "/" },
-    { "name": "Products", "icon": "ShoppingBag", "href": "/products" },
-    { "name": "Clients", "icon": "Users", "href": "/users" },
-    { "name": "Sales", "icon": "DollarSign", "href": "/sales" },
-    { "name": "Orders", "icon": "ShoppingCart", "href": "/orders" },
-    { "name": "Settings", "icon": "Settings", "href": "" },
-    { "name": "Messages", "icon": "Mail", "href": "" },
-    { "name": "Notifications", "icon": "Bell", "href": "" },
-    { "name": "Help", "icon": "Info", "href": "" }
+    { "name": "Truck", "icon": "Truck", "href": "/Rodopar" },
+    { "name": "Users", "icon": "Users", "href": "/users" },
+    { "name": "Análises ", "icon": "ChartNoAxesColumn", "href": "/Estatísticas" },
+    { "name": "Hensel", "icon": "ShieldBan", "href": "/Hensel" },
+    { "name": "Sister - E-professional", "icon": "ContainerIcon", "href": "/Sister" },
+    { "name": "Mensagens", "icon": "Mail", "href": "" },
+    { "name": "Notificações", "icon": "Bell", "href": "" },
+    { "name": "Ajuda", "icon": "Info", "href": "" }
   ]
 }
