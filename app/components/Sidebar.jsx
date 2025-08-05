@@ -11,7 +11,7 @@ import {
   Menu,
   Truck,
   ShieldBan,
-  BadgeDollarSign
+  BadgeDollarSign,
 } from "lucide-react";
 import { usePathname } from "next/navigation";
 import Link from "next/link";
@@ -27,7 +27,7 @@ const ICONS = {
   Users,
   Bell,
   Info,
-  BadgeDollarSign
+  BadgeDollarSign,
 };
 
 const Sidebar = () => {
