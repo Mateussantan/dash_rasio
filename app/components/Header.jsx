@@ -39,10 +39,9 @@ const Header = () => {
               height={35}
               className="rounded-full border border-gray-600"
             />
-            <span className="hidden md:inline-block text-gray-100 font-medium">
-  Username
-</span>
-
+            <span className="hidden md:block text-gray-100 font-medium">
+              Username
+            </span>
           </div>
         </div>
       </div>
