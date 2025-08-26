@@ -1,4 +1,4 @@
-import OverviewPage from "./routes/overview/page"
+import OverviewPage from "./overview/page"
 
 export default function Home (){
   return <OverviewPage/>

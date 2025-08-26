@@ -23,14 +23,10 @@
   "sidebarItems": [
     { "name": "Dashboard", "icon": "House", "href": "/" },
     { "name": "Rodopar", "icon": "Truck", "href": "/rodopar" },
-    { "name": "Users", "icon": "Users", "href": "/users" },
-    { "name": "Análises ", "icon": "ChartNoAxesColumn", "href": "/estatisticas" },
+    { "name": "Análises", "icon": "ChartNoAxesColumn", "href": "/estatisticas" },
     { "name": "Hensel", "icon": "ShieldBan", "href": "/hensel" },
     { "name": "Sister - E-professional", "icon": "ContainerIcon", "href": "/sister" },
-    { "name": "Mensagens", "icon": "Mail", "href": "" },
-    { "name": "Notificações", "icon": "Bell", "href": "" },
     { "name": "Protheus", "icon": "BadgeDollarSign", "href": "/protheus" },
     { "name": "Ajuda", "icon": "Info", "href": "/ajuda" }
-    
   ]
 }
