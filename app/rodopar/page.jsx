@@ -27,11 +27,6 @@ export default function RodoparPage() {
   return (
     <div className="flex-1 overflow-auto relative z-10">
       <main className="max-w-7xl mx-auto py-4 px-4 lg:px-8">
-        <Header
-          title="Rodopar"
-          subtitle="KPIs e últimas OSTs processadas."
-        />
-
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6">
           {kpis.map((k, i) => (
             <MetricCard key={i} {...k} />
